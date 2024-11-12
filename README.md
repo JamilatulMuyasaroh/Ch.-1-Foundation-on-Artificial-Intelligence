@@ -2,7 +2,7 @@
 The provided code consists of two main sections: one for calculating the number of banknotes and coins needed based on a given input value (in Indonesian Rupiah), and the other for performing HR data analysis using Python's pandas and data visualization with matplotlib and seaborn. Here's a breakdown of each section:
 
 # Project Overview
-**1.  Calculating Banknotes and Coins Needed (01_Kelompok_G_2.ipynb)**
+# **1.  Calculating Banknotes and Coins Needed (01_Kelompok_G_2.ipynb)**
 This code prompts the user to input an amount in Rupiah (integer) and calculates how many banknotes and coins are needed to make up that amount.
 
 **Details of calculate_allmoney Function:**
@@ -16,11 +16,11 @@ This code prompts the user to input an amount in Rupiah (integer) and calculates
 
 Checks if the input is negative or exceeds Rp 1,000,000,000, displaying an appropriate message.
 
-**Output: **
+**Output:**
 
 Prints the quantity of each denomination, the total banknotes, the total coins, and any remaining balance that cannot be exchanged.
 
-**2.  HR Data Analysis & Visualization (01_Kelompok_G_3.ipynb)**
+# **2.  HR Data Analysis & Visualization (01_Kelompok_G_3.ipynb)**
 This code performs several analyses on HR data (HRDataset_v14.csv) and generates different data visualizations.
 
 **Analyses Performed:**
