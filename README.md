@@ -47,3 +47,16 @@ This section performs various analyses on HR data (`HRDataset_v14.csv`) and gene
 
 - **Relationship Between Manager and Performance Score**: Uses a Chi-Square test to assess any association between `ManagerName` and `PerformanceScore`.
 - **Recruitment Sources with Low Termination Ratio**: Groups data by `RecruitmentSource` and identifies sources with the lowest termination counts.
+
+---
+
+## Running the Notebooks
+
+To run each notebook:
+
+1. Open **Google Colab** or a compatible Jupyter Notebook environment.
+2. Upload the respective `.ipynb` notebook file (01_Kelompok_G_2.ipynb or 01_Kelompok_G_3.ipynb).
+3. Follow the instructions within each notebook to install any necessary libraries, such as `pandas`, `matplotlib`, `seaborn`, and others.
+4. Execute each cell in sequence to perform calculations or generate analyses and visualizations.
+   
+Each notebook provides hands-on experience with fundamental AI tasks and data analysis techniques, guiding users through calculations, data processing, and visualization practices relevant to AI and HR analytics.
